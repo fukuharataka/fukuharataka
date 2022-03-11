@@ -9,4 +9,7 @@ Webを中心としたソフトウェア開発を3年ほど行なっています�
 
 言語的には、TypeScript・Pythonが得意です
 
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fukuharataka&hide=jupyter%20notebook,shaderlab,tex,c%23" />
 
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fukuharataka)](https://github.com/anuraghazra/github-readme-stats)
