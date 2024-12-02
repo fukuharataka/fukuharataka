@@ -7,7 +7,7 @@
 Webを中心としたソフトウェア開発を5年ほど行なっています。
 現在は、福岡市で自社サービス運営会社を立ち上げそこでエンジニアをしています。
 
-言語的には、TypeScript・Pythonが得意です
+TypeScript・Pythonが得意です。
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fukuharataka&hide=jupyter%20notebook,shaderlab,tex,c%23" />
 
